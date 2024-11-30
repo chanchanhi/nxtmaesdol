@@ -1,0 +1,15 @@
+artifact_uri: /home/ec2-user/SageMaker/yujin/runs/mlflow/444154560077851942/933557c5ab234ea0b824bd93ad359d86/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '444154560077851942'
+lifecycle_stage: active
+run_id: 933557c5ab234ea0b824bd93ad359d86
+run_name: train7
+run_uuid: 933557c5ab234ea0b824bd93ad359d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732860315166
+status: 1
+tags: []
+user_id: ec2-user
